@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Pankaj Ghosh
+  url:               https://twitter.com/rabbitholing
+  email:             pankajghosh@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/pankajghosh/pankajghosh.github.io
 
 # Gems
 gems:
