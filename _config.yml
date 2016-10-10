@@ -33,7 +33,7 @@ gems:
 
 # Prose
 prose:
-	media: 'media'
-    rooturl: '_posts'
-    siteurl: 'http://blancnote.com/'
-    relativeLinks: 'http://blancnote.com/links.jsonp'
+  media: 'media'
+  rooturl: '_posts'
+  siteurl: 'http://blancnote.com/'
+  relativeLinks: 'http://blancnote.com/links.jsonp'
