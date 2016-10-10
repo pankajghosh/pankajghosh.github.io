@@ -30,3 +30,9 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+# Prose
+prose:
+	media: 'media'
+    rooturl: '_posts'
+    siteurl: http://blancnote.com
