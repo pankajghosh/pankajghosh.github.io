@@ -35,4 +35,5 @@ gems:
 prose:
 	media: 'media'
     rooturl: '_posts'
-    siteurl: http://blancnote.com
+    siteurl: 'http://blancnote.com/'
+    relativeLinks: 'http://blancnote.com/links.jsonp'
