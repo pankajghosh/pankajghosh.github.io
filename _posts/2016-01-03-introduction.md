@@ -18,7 +18,10 @@ There are currently three themes built on Poole:
 
 Learn more and contribute on [GitHub]({{ site.github.repo }}).
 
-![Screen Shot 2016-10-10 at 2.09.22 PM.png]({{site.baseurl}}/_posts/Screen Shot 2016-10-10 at 2.09.22 PM.png)
+![img.png]({{site.baseurl}}/_posts/img.png)
+
+
+
 
 
 ### What's included
