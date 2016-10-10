@@ -17,7 +17,7 @@ There are currently three themes built on Poole:
 * [Enfield](http://enfield.getpoole.com)
 
 Learn more and contribute on [GitHub]({{ site.github.repo }}).
-![img.png]({{site.baseurl}}/media/img.png)
+
 
 
 
